@@ -1,0 +1,31 @@
+{
+	"list": [
+		{
+			"title": "Test1",
+			"available": true,
+			"deliverable": true,
+			"image": {
+				"normal": "test1.jpg",
+				"monochrome": "test1.mono.jpg"
+			}
+		},
+		{
+			"title": "Test2",
+			"available": true,
+			"deliverable": true,
+			"image": {
+				"normal": "test2.jpg",
+				"monochrome": "test2.mono.jpg"
+			}
+		}
+		{
+			"title": "Test3",
+			"available": true,
+			"deliverable": true,
+			"image": {
+				"normal": "test3.jpg",
+				"monochrome": "test3.mono.jpg"
+			}
+		}
+	]
+}

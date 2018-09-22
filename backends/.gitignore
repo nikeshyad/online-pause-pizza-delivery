@@ -1,0 +1,9 @@
+src/kitchen_web_server/auth/email.go
+src/kitchen_web_server/auth/email_test.go
+assets/v5/auth/*
+assets/v5/tokens/*
+assets/v5/superadmin/*
+src/kitchen_web_server/kitchen_web_server
+src/customer_web_server/customer_web_server
+kitchen_web_server
+customer_web_server

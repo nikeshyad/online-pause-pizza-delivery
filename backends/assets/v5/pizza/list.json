@@ -1,0 +1,24 @@
+{
+	"list": [
+		{
+			"title": "Build Your Own Pizza",
+			"available": true,
+			"deliverable": true,
+			"image": {
+				"normal": "files/pizzabuild.jpg",
+				"monochrome": "files/pizzabuild.mono.jpg"
+			},
+            "api" : "v5/pizza/build"
+		},
+		{
+			"title": "Specialty Pizza",
+			"available": true,
+			"deliverable": true,
+			"image": {
+				"normal": "files/pizzaspecialty.jpg",
+				"monochrome": "files/pizzaspecialty.mono.jpg"
+			},
+            "api" : "v5/pizza/specialty"
+		}
+	]
+}

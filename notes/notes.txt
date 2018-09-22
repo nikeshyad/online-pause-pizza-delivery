@@ -1,0 +1,2 @@
+Server -> Client (in the pause) notification for new orders.
+option to 86 things to the API

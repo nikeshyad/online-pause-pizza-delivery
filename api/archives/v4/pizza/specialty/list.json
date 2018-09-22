@@ -1,0 +1,96 @@
+"list" : [
+  {
+    "title" : "Chicken Bacon Ranch Pizza",
+    "freeIngredients" : ["Dough", "Chicken", "Bacon", "Ranch", "Mozzarella"],
+    "addableIngredients" : [],
+    "addableIngredientTypes" : ["Cheese", "BaseSauce", "Meat", "Veggie"],
+    "price" : [
+      {
+        "increment" : "Large",
+        "price" : 11.00
+      },
+      {
+        "increment" : "Small",
+        "price" : 8.00
+      },
+      {
+        "increment" : "Bagel",
+        "price" : 3.50
+      },
+      {
+        "increment" : "Pita",
+        "price" : 3.50
+      }
+    ],
+    "pricePerExtra" : [
+      {
+        "increment" : "Large",
+        "pricePerExtra" : 1.00
+      },
+      {
+        "increment" : "Small",
+        "pricePerExtra" : 0.75
+      },
+      {
+        "increment" : "Bagel",
+        "pricePerExtra" : 0.75
+      },
+      {
+        "increment" : "Pita",
+        "pricePerExtra" : 0.75
+      }
+    ],
+    "image" : {
+      "normal" : "https://78.media.tumblr.com/2fb9cf2090f07e9df147191779075131/tumblr_p331h0IPtS1vnqqv9o2_500.jpg",
+      "monochrome" : "https://78.media.tumblr.com/61ec5cbb3fe3a644f55ccd75aad34b63/tumblr_p331h0IPtS1vnqqv9o1_500.jpg"
+    },
+    "api" : "v4/ingredients/list"
+  },
+  {
+    "title" : "Ole Pizza",
+    "freeIngredients" : ["Dough", "Pepperoni", "Sausage", "Marinara", "Mozzarella", "Black Olives", "Onions", "Green Peppers"],
+    "addableIngredients" : [],
+    "addableIngredientTypes" : ["Cheese", "BaseSauce", "Meat", "Veggie"],
+    "price" : [
+      {
+        "increment" : "Large",
+        "price" : 11.00
+      },
+      {
+        "increment" : "Small",
+        "price" : 8.00
+      },
+      {
+        "increment" : "Bagel",
+        "price" : 3.50
+      },
+      {
+        "increment" : "Pita",
+        "price" : 3.50
+      }
+    ],
+    "pricePerExtra" : [
+      {
+        "increment" : "Large",
+        "pricePerExtra" : 1.00
+      },
+      {
+        "increment" : "Small",
+        "pricePerExtra" : 0.75
+      },
+      {
+        "increment" : "Bagel",
+        "pricePerExtra" : 0.75
+      },
+      {
+        "increment" : "Pita",
+        "pricePerExtra" : 0.75
+      }
+    ],
+    "image" : {
+      "normal" : "https://78.media.tumblr.com/89801274de727f2a5cc1ec285c079793/tumblr_p331h0IPtS1vnqqv9o3_500.jpg",
+      "monochrome" : "https://78.media.tumblr.com/e88dedb7114986fd313dff378a294cef/tumblr_p331h0IPtS1vnqqv9o4_500.jpg"
+    },
+    "api" : "v4/ingredients/list"
+  }
+]
